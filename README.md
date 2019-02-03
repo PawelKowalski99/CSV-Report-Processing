@@ -35,3 +35,9 @@ Remember that you need to be in this directory nad you have to run virtual envir
 ```
 CSV_Report_Processing.py
 ```
+## Tests
+To run tests you need to run
+```
+test_CSV_Report_Processing.py
+```
+
