@@ -27,7 +27,7 @@ Let's go inside venv
 You should now install all required files
 If you are not in 
 ```
- /path/to/new/virtual/environment
+ /path/to/new/virtual/environment/CSV-Report-Processing
 ```
 Go there.
 Then
