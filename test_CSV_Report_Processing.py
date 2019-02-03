@@ -1,5 +1,5 @@
 import pytest
-from CSV_Report_Processing import (crt_changing,
+from csv_report_processing import (crt_changing,
                                    get_alpha_3_code,
                                    agregated_data,
                                    save_result_to_file,
