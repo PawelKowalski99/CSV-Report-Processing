@@ -18,7 +18,7 @@ python3 -m venv /path/to/new/virtual/environment
 ```
 Then clone git repository to this virtual environment path
 ```
-$ git clone https://github.com/asplia/Web-Crawler.git
+$ git clone https://github.com/asplia/CSV-Report-Processing.git
 ```
 Let's go inside venv
 ```
