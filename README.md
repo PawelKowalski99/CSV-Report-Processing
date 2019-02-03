@@ -30,7 +30,7 @@ Then
 ```
 pip install -r /path/to/requirements.txt
 ```
-Good job! You can now run web crawler by running the command in command line
+Good job! You can now run CSV Report Processing by running the command in command line
 Remember that you need to be in this directory nad you have to run virtual environment also!
 ```
 CSV_Report_Processing.py
