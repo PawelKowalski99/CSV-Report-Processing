@@ -114,4 +114,5 @@ def csv_extension(filename):
 
 
 if __name__ == '__main__':
+
     agregated_data('data_to_change.csv')

@@ -1,10 +1,12 @@
 import pytest
-from csv_report_processing import (crt_changing,
-                                   get_alpha_3_code,
-                                   agregated_data,
-                                   save_result_to_file,
-                                   csv_extension,
-                                   add_impression_click)
+from csv_report_processing import (
+    crt_changing,
+    get_alpha_3_code,
+    agregated_data,
+    save_result_to_file,
+    csv_extension,
+    add_impression_click
+)
 
 
 @pytest.mark.parametrize('ctr, percentage, row_number, expected', [
