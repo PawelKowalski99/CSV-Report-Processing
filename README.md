@@ -8,6 +8,7 @@ to
 2019-01-21,AFG,919,6
 ```
 ## Installing
+Be sure that you have got virtualenvironment module on computer installed.
 Firstly you need to make virtual environment
 ```
 python3 -m venv /path/to/new/virtual/environment
