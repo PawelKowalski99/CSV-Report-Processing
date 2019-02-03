@@ -8,7 +8,10 @@ to
 2019-01-21,AFG,919,6
 ```
 ## Installing
-Be sure that you have got virtualenvironment module on computer installed.
+Be sure that you have got virtualenvironment module on computer installed. <br/>
+```
+pip install virtualenv
+```
 Firstly you need to make virtual environment
 ```
 python3 -m venv /path/to/new/virtual/environment
@@ -31,7 +34,7 @@ Then
 ```
 pip install -r /path/to/requirements.txt
 ```
-Good job! You can now run CSV Report Processing by running the command in command line
+Good job! You can now run CSV Report Processing by running the command in command line <br/>
 Remember that you need to be in this directory nad you have to run virtual environment also!
 ```
 CSV_Report_Processing.py
