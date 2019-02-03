@@ -37,11 +37,11 @@ pip install -r requirements.txt
 Good job! You can now run CSV Report Processing by running the command in command line <br/>
 Remember that you need to be in this directory nad you have to run virtual environment also!
 ```
-CSV_Report_Processing.py
+csv_report_processing.py
 ```
 ## Tests
 To run tests you need to run
 ```
-test_CSV_Report_Processing.py
+pytest
 ```
 
