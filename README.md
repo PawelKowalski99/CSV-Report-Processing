@@ -39,6 +39,10 @@ Remember that you need to be in this directory and you have to run virtual envir
 ```
 python csv_report_processing.py
 ```
+If you want to exit virtual environment type:
+```
+deactivate
+```
 ## Tests
 To run tests you need to run
 ```
